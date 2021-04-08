@@ -184,8 +184,8 @@
       }
     },
     "resourceGroups": {},
-    "targetScope": "subscription",
-    "displayName": "PBMM Profile 6 30-day guardrails blueprint",
-    "description": "Assigns policies for PBMM Profile 6 controls for a subscription or management group "
+    "targetScope": "managementGroup",
+    "displayName": "PBMM Profile 30-day guardrails blueprint",
+    "description": "Assigns policies for PBMM Profile controls for a subscription or management group "
   }
 }
